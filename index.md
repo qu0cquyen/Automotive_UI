@@ -17,6 +17,7 @@
 		</ul>
 		<h3>September 17th, 2019</h3>
 		<p>We had a discussion about the possibilities of finishing the project. Then we finalized how the project schedule should be looked alike.</p>
+		<p>Changes the sensor that I am going to use for the project. The sensor that I will use is "Pulsesenor Heart Rate Beat Pulse Sensor Module" with an Analog to Digital converter (ADS1015). <a href='http://udayankumar.com/2016/05/17/heart-beat-raspberry/'>References</a></p>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectSchedule.pdf'>Project Schedule</a>
 	</body>
 </html> 
