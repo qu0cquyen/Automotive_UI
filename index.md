@@ -15,5 +15,8 @@
 			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProposalContentEmergensUIRev03.xlsx'>ProjectContentEmergensUIRev03.xlsx</a></li>
 			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProposalContentEmergensUIRev03.pdf'>ProjectContentEmergensUIRev03.pdf</a></li>
 		</ul>
+		<h3>September 17th, 2019</h3>
+		<p>We had a discussion about the possibilities of finishing the project. Then we finalized how the project schedule should be looked alike.</p>
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectSchedule.pdf'>Project Schedule</a>
 	</body>
 </html> 
