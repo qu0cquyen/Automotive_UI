@@ -19,5 +19,10 @@
 		<p>We had a discussion about the possibilities of finishing the project. Then we finalized how the project schedule should be looked alike.</p>
 		<p>Changes the sensor that I am going to use for the project. The sensor that I will use is "Pulsesenor Heart Rate Beat Pulse Sensor Module" with an Analog to Digital converter (ADS1015). <a href='http://udayankumar.com/2016/05/17/heart-beat-raspberry/'>References</a></p>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectSchedule.pdf'>Project Schedule</a>
+		<h3>September 24th, 2019</h3>
+		<p>After searching the suppliers for the components that I need. Then, I build a table with all information of the suppliers, part numbers, price and so forth in this table and named it as Project Budget. </p>
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.xlsx'>Project Budget (Excel file)</a> 
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.pdf'>Project Budget (Pdf file)</a>
+		
 	</body>
 </html> 
