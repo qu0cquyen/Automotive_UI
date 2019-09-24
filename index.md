@@ -21,7 +21,7 @@
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectSchedule.pdf'>Project Schedule</a>
 		<h3>September 24th, 2019</h3>
 		<p>After searching the suppliers for the components that I need. Then, I build a table with all information of the suppliers, part numbers, price and so forth in this table and named it as Project Budget. </p>
-		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.xlsx'>Project Budget (Excel file)</a> 
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.xlsx'>Project Budget (Excel file)</a><br>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.pdf'>Project Budget (Pdf file)</a>
 	</body>
 </html> 
