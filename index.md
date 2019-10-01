@@ -23,5 +23,8 @@
 		<p>After searching the suppliers for the components that I need. Then, I build a table with all information of the suppliers, part numbers, price and so forth in this table and named it as Project Budget. </p>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.xlsx'>Project Budget (Excel file)</a><br>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/ProjectBudget.pdf'>Project Budget (Pdf file)</a>
+		<h3>October 1st, 2019</h3> 
+		<p>Uploads proof of purchasing.</p>
+		<p>There is a minor change in purchasing, instead of using the link that I provided in the budget. However, since the component is going to be delivered in the middle of October, I have to change to another supplier who can deliver the component before the second week of October. A modification has been made in the budget file.</p>
 	</body>
 </html> 
