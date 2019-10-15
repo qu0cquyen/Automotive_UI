@@ -4,6 +4,17 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>October 15th, 2019</h3>
+		<ul>Hardware design:
+			<li>Breadboard</li>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png' width=50% height=50%>
+			<li>Schematic</li>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_schem.png'width=50% height=50%>
+			<li>PCB</li>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png'width=50% height=50%>
+			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>Firtzing File</a>
+			</li>
+		</ul> 
 		<h3>October 1st, 2019</h3> 
 		<p>Uploads proof of purchasing.</p>
 		<p>There is a minor change in purchasing, instead of using the link that I provided in the budget. However, since the component (ADS1015) is going to be delivered in the middle of October, I have to change to another supplier who can deliver the component before the second week of October. A modification has been made in the budget file.</p>
