@@ -5,7 +5,8 @@
 	<body>
 		<h2>Blog Project CENG317 </h2>
 		<h3>October 15th, 2019</h3>
-		<ul>Hardware design:
+		<p>Hardware design:</p>
+		<ul>
 			<li>Breadboard</li>
 			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png' width=50% height=50%>
 			<li>Schematic</li>
