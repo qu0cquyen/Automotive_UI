@@ -10,9 +10,9 @@
 			<li>Breadboard</li>
 			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png'  width='50%' height='50%'>
 			<li>Schematic</li>
-			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_schem.png' width=50% height=50%>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_schem.png' width='50%' height='50%'>
 			<li>PCB</li>
-			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png' width=50% height=50%>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png' width='50%' height='50%'>
 			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>Firtzing File</a>
 			</li>
 		</ul> 
