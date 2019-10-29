@@ -8,7 +8,7 @@
 		<p>Hardware design:</p>
 		<ul>
 			<li>Breadboard</li>
-			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png'  width=50% height=50%>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png'  width="50%" height="50%">
 			<li>Schematic</li>
 			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_schem.png' width=50% height=50%>
 			<li>PCB</li>
