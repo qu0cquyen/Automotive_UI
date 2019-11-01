@@ -4,6 +4,12 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>October 31st, 2019</h3> 
+		<p>Fortunately, my friend lends me a raspberry pi for running my project. The pi helps me records all the heart beat figures from hooking up all the necessary components on the breadboard and running codes </p> 
+		<ul>
+			<li>Breadboard connection</li>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Breadboard_Demo.png?raw=true' width='50%' height='50%' />
+		</ul>
 		<h3>October 15th, 2019</h3>
 		<p>Hardware design:</p>
 		<ul>
