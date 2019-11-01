@@ -9,6 +9,10 @@
 		<ul>
 			<li>Breadboard connection</li>
 			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Breadboard_Demo.png?raw=true' width='50%' height='50%' />
+			<li>Figures from the sensor</li>
+			<img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/Figures.PNG' width='50%' height='50%' />
+			<li>Code Reference</li>
+			<p>The codes that I used to get the heart beat figures can be found in this <a href='https://github.com/udayankumar/heart-rate-raspberry-pi'>link</a></p>
 		</ul>
 		<h3>October 15th, 2019</h3>
 		<p>Hardware design:</p>
