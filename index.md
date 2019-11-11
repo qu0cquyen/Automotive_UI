@@ -4,6 +4,14 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>November 10th, 2019</h3>
+		<p>Solder headers into PCB and measure the voltage goes in the PCB to make sure the PCB is working. </p>
+		<ul>
+			<li>Pi Section Measurement</li>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/>
+			<li>Sensor Section Measurement</li>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/>
+		</ul>
 		<h3>October 31st, 2019</h3> 
 		<p>Fortunately, my friend lends me a raspberry pi for running my project. The pi helps me records all the heart beat figures from hooking up all the necessary components on the breadboard and running codes </p> 
 		<ul>
