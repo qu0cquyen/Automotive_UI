@@ -4,6 +4,16 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>November 14th, 2019</h3>
+		<p>	According to the schedule, we are at the PCB power up stage of the project right now. This
+		means we are following what we have set for the project schedule. Even though we have dealt with some PCB connectivity problems, we are able to solve the issues and have it functions as we expect under the guidances of the professors in prototype lab. </p>
+		<p>	In terms of finance, we have to pay around $20 for the headers which are used to attached and make connections between pins on PCB. The follwing pictures are captured to show the working PCB and running codes: </p>
+		<ul>
+			<li>Physical View of Functioning PCB:</li>
+				<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Pi.png?raw=true' width='50%' height='50%' />
+			<li>Running Code of Functioning PCB:</li>
+				<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Code.png?raw=true' width='50%' height='50%'/>
+		</ul>
 		<h3>November 10th, 2019</h3>
 		<p>Solder headers into PCB and measure the voltage goes in the PCB to make sure the PCB is working. </p>
 		<ul>
