@@ -4,6 +4,24 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>November 19th, 2019</h3> 
+		<p>Since there is a significant number of 3D printer reservations, I was not able to use the printer for the maximum two hours. I could only use the printer for one hour in order to print one side of my case. Unfortunately, as the come out result was not what I expected, then I realized that I messed up my measurement as well as the shapes of my case.</p> 
+		<p>	Nonetheless, I managed to fix up my design at the moment I am writing this blog. The problem that I am having right now is the amount of time that I have to spend for making my whole case is around 9 hours 30 minutes. This process can be speeded up by printing each part separately, this may save approximate 2 hours compares to the printing the whole case as the original intention. In addition, my design is sent to the prototype lab to have them to help me in printing the physical case. </p> 
+		<p> All the design files can be found in this blog entry </p> 
+		<ul> 
+			<li>Custom Case: </li> 
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Project_Custom_Case.skp'>Case Design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Project_Custom_Case.stl'>Case Design (.stl file)</a>
+			<li>Custom Case (Top part): </li>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Top_case_final.skp'>Top design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Top_case_final.stl'>Top design (.stl file)</a>
+			<li>Custom Case (Middle part): </li>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Mid_case_final.skp'>Middle design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Mid_case_final.stl'>Middle design (.stl file)</a>
+			<li>Custom Case (Bottom part): </li>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Bottom_case_final.skp'>Bottom design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Bottom_case_final.stl'>Bottom design (.stl file)</a>
+		</ul>
 		<h3>November 14th, 2019</h3>
 		<p>	According to the schedule, we are at the PCB power up stage of the project right now. This
 		means we are following what we have set for the project schedule. Even though we have dealt with some PCB connectivity problems, we are able to solve the issues and have it functions as we expect under the guidances of the professors in prototype lab. </p>
