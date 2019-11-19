@@ -10,16 +10,16 @@
 		<p> All the design files can be found in this blog entry </p> 
 		<ul> 
 			<li>Custom Case: </li> 
-			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Project_Custom_Case.skp'>Case Design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Project_Custom_Case.skp'>Case Design (.skp file)</a><br/>
 			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Project_Custom_Case.stl'>Case Design (.stl file)</a>
 			<li>Custom Case (Top part): </li>
-			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Top_case_final.skp'>Top design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Top_case_final.skp'>Top design (.skp file)</a><br/>
 			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Top_case_final.stl'>Top design (.stl file)</a>
 			<li>Custom Case (Middle part): </li>
-			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Mid_case_final.skp'>Middle design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Mid_case_final.skp'>Middle design (.skp file)</a><br/>
 			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Mid_case_final.stl'>Middle design (.stl file)</a>
 			<li>Custom Case (Bottom part): </li>
-			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Bottom_case_final.skp'>Bottom design (.skp file)</a>
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Bottom_case_final.skp'>Bottom design (.skp file)</a><br/>
 			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Bottom_case_final.stl'>Bottom design (.stl file)</a>
 		</ul>
 		<h3>November 14th, 2019</h3>
