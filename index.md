@@ -6,8 +6,8 @@
 		<h2>Blog Project CENG317 </h2>
 		<h3>November 22th, 2019</h3> 
 		<p>I have just received my customer Pi case from third party service. However, the results are not what I expected due to the wrong measurement between the holes size and the stands size which make them cannot fit (clip) together. An adjustment of measurements has been made and I am waiting for the next printing results. </p>
-		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_1.png?raw=true' width='50%' height='50%'> <br/> 
-		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_2.png?raw=true' width='50%' height='50%'> 
+		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_1.png?raw=true' width='50%' height='50%'/> <br/> 
+		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_2.png?raw=true' width='50%' height='50%'/> 
 		<h3>November 19th, 2019</h3> 
 		<p>Since there is a significant number of 3D printer reservations, I was not able to use the printer for the maximum two hours. I could only use the printer for one hour in order to print one side of my case. Unfortunately, as the come out result was not what I expected, then I realized that I messed up my measurement as well as the shapes of my case.</p> 
 		<p>	Nonetheless, I managed to fix up my design at the moment I am writing this blog. The problem that I am having right now is the amount of time that I have to spend for making my whole case is around 9 hours 30 minutes. This process can be speeded up by printing each part separately, this may save approximate 2 hours compares to the printing the whole case as the original intention. In addition, my design is sent to the prototype lab to have them to help me in printing the physical case. </p> 
