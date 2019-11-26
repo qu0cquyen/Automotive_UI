@@ -4,6 +4,12 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>November 26th, 2019</h3>
+		<p>This week we are going to present our project in terms of hardware platform. Presentation will be attached below: </p> 
+		<ul>
+			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/Automotive_UI_Presentation.pptx'>Automotive_UI_Presentation (Power Point)</a></li>
+			<li><a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/documentation/Automotive_UI_Presentation.pdf'>Automotive_UI_Presentation (PDF)</a></li>
+		</ul>
 		<h3>November 22th, 2019</h3> 
 		<p>I have just received my customer Pi case from third party service. However, the results are not what I expected due to the wrong measurement between the holes size and the stands size which make them cannot fit (clip) together. An adjustment of measurements has been made and I am waiting for the next printing results. </p>
 		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_1.png?raw=true' width='50%' height='50%'/> <br/> 
