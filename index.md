@@ -4,6 +4,17 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>December 3rd, 2019</h3>
+		<p>After carefully measuring, I have my final enclosure which holds my PCB and Heartrate sensor. The amount of time spending for this whole 3D printing process is approximately 21 hours (included the failed printing)</p>
+		<p>These pictures are my final enclosure: </p>
+		<ul>
+			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/></li>
+			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/></li>
+			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_3.png?raw=true' width='50%' height='50%'/></li>
+			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_4.png?raw=true' width='50%' height='50%'/></li>
+		</ul>
+		<p>These images below are the failure (I threw some of them): </p>
+		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Failures.png?raw=true' width='50%' height='50%'/></li>
 		<h3>November 28th, 2019</h3>
 		<p>Today, I tried to print out a redesign case for the project. It starts giving out a result, however, there are still some problems, for example, there are some stands in the middle part of the case that will fit into some holes on the bottom of the case; since the stands are too long and thin which leads them to be easy to get broken off. Additionally, the wires are too long that make assembling process is much harder. At this moment, I am working on another design that will have enough space for storing the wires and have all the stands thicker.</p> 
 		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Case_v2.png?raw=true' height='50%' width='50%' />
