@@ -8,10 +8,10 @@
 		<p>After carefully measuring, I have my final enclosure which holds my PCB and Heartrate sensor. The amount of time spending for this whole 3D printing process is approximately 21 hours (included the failed printing)</p>
 		<p>These pictures are my final enclosure: </p>
 		<ul>
-			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/></li>
-			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/></li>
-			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_3.png?raw=true' width='50%' height='50%'/></li>
-			<li><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_4.png?raw=true' width='50%' height='50%'/></li>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_3.png?raw=true' width='50%' height='50%'/>
+			<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_4.png?raw=true' width='50%' height='50%'/>
 		</ul>
 		<p>These images below are the failure (I threw some of them): </p>
 		<img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Failures.png?raw=true' width='50%' height='50%'/></li>
