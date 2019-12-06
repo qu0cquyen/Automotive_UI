@@ -4,6 +4,10 @@
 	</head>
 	<body>
 		<h2>Blog Project CENG317 </h2>
+		<h3>December 5th, 2019</h3>
+		<p>Uploads final enclosures design files</p>
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Bottom_Case_Enclousre.stl'>Bottom Enclosure</a><br/>
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Middle_Case_Enclosure.stl'>Mid Enclosure</a>
 		<h3>December 3rd, 2019</h3>
 		<p>After carefully measuring, I have my final enclosure which holds my PCB and Heartrate sensor. The amount of time spending for this whole 3D printing process is approximately 21 hours (included the failed printing)</p>
 		<p>These pictures are my final enclosure: </p>
