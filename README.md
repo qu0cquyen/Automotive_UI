@@ -1,10 +1,10 @@
-# Automotive_UI
+# Automotive_UI (Pulse Sensor)
 <html>
 	<head></head>
 	<body>
 	<ol>
 		<li><h3>System Diagram</h3></li>
-		<li><h3>Budget</h3></li>
+		<li><h3>Budget<hr/></h3></li>
 		<p>To implement this project. There are some components and equipments are used: 
 					<table>
 						<tr><td>Raspberry Pi 4 - 32GB SDCard</td><td align="right">CDN$ 134.99</td></tr>
