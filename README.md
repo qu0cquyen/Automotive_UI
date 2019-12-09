@@ -72,8 +72,8 @@
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/></p>
 	<li><h3>Reference: </h3></li>
-	https://www.balena.io/blog/etcher-now-with-multi-write-and-compute-module-support/
-	https://www.digikey.com/en/maker/blogs/2018/how-to-boot-to-command-line-and-ssh-on-raspberry-pi
+	<p>&emsp;&emsp;Marinos, A. (2018, October 18). Etcher: Now with multi-write and Compute Module support! Retrieved from https://www.balena.io/blog/etcher-now-with-multi-write-and-compute-module-support/.</p>
+	<p>&emsp;&emsp;Staff, M. (2018, April 5). How to Boot to Command Line and SSH on Raspberry Pi. Retrieved from https://www.digikey.com/en/maker/blogs/2018/how-to-boot-to-command-line-and-ssh-on-raspberry-pi.</p>
 	</ol>
 	</body> 
 </html> 
