@@ -16,15 +16,20 @@
 						<tr><td>Customized Enclosure</td><td align="right">CDN$ 30.00</td></tr>
 						<tr><td></td><td align="right">Total: CDN$ 308.82</td></tr>
 					</table>
-			The total price is assumed that we do not possess any components aside from tool kits (included jumper wires)
+			The total price is assumed that we do not possess any components aside from Standley tool kit (included jumper wires)
 		</p>
 		<li><h3>Time Commitment</h3></li>
 		<p>
-		&emsp;&emsp;The total amount of time to accomplish this project is approximately 20 hours. This included waiting time for all components and equipments are shipped and gathered. For some side-work such as Project Selection (30 minutes), Proposal, Meeting and Budget will take roughly one to two hours to finish each of them. 
-		&emsp;&emsp;Fritzing software is used to design the Breadboard and PCB. Both designs are pretty straight forward, all we need to do is to properly wire up all the components. However, the software does not include Hearbeat sensor and ADS1015 converter. [Attach files] The design files for this 2 components will be included at the end of this section. [Pictures]. In additional, there are two things we need to adjust for the PCB design are the size of Vias and Wires, 0.9 and 16 mil accordingly. This process should take around 4 hours. 
-		&emsp;&emsp;After having both designs are done, next all the necessary components will be hooked up on the breadboard first based upon the breadboard designed which is done in Fritizing. The amount of time should be spent on this process is 30 minutes to 1 hour. 
-		&emsp;&emsp;Assuming, everything is working up until now. PCB power up will be 
-		</p>
+		&emsp;&emsp;This time commitment is writtent based on the assumption of not having any components except the tool kit and no experience of PCB designing. The total amount of time to accomplish this project is approximately 31 hours. This included waiting time for all components and equipments are shipped and gathered. For some side-work such as Project Selection (30 minutes), Proposal, Meeting and Budget will take roughly one to two hours to finish each of them. </p>
+		<p>&emsp;&emsp;Fritzing software is used to design the Breadboard and PCB. Both designs are pretty straight forward, all we need to do is to properly wire up all the components. However, the software does not include Hearbeat sensor and ADS1015 converter. You can download these 2 components for Fritizing with this links: 
+		<ul>
+			<li><a href='https://raw.githubusercontent.com/adafruit/Fritzing-Library/master/parts/Adafruit%20ADS1015%2012Bit%20I2C%20ADC.fzpz'>ADS1015</a></li>
+			<li><a href='https://raw.githubusercontent.com/WorldFamousElectronics/Fritzing_PulseSensor_Files/master/Pulse%20Sensor.fzpz'>Pulse Sensor</a></li>
+		</ul>
+		In additional, there are two things we need to adjust for the PCB design are the size of Vias and Wires, 0.9 and 16 mil accordingly. This process should take around 4 hours. A personal design can be from this <a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>link</a>. </p>
+		<p>&emsp;&emsp;After having both designs are done, next all the necessary components will be hooked up on the breadboard first based upon the breadboard designed which is done on Fritizing. The amount of time should be spent on this process is 30 minutes to 1 hour. </p>
+		<p>&emsp;&emsp;Assuming, everything is working up until now. PCB power up process will cost us 30 minutes to 1 hour to assemble and do all the measurements which makes sure all the components are correctly wired up and connected to each other. </p>
+		<p>&emsp;&emsp;Once we have everything ready up to this point, building an enclosure for our components will be our next step. Personally, this can be seen as the most annoyed process in the whole project; apart from coming up with a design which can cover all the parts of our components, we also need to have a inctricate design in order to fit in all the parts together. In this process I spent about 21 hours for both designing and 3D printing the enclosure. During the process, I used a 3rd-party 3D printing service outside the school to assist me to accelerate this process. There is a number of faulty designs have been made due to mistaking measurements, therefore, I would recommend that you should research or ask experts who are able to give some suggestions in details measurement, if you want all the parts of the enclosure can perfectly fit to each other.</p>
 		<li><h3>Mechanical Assembly</h3></li>
 		<li><h3>PCB/Soldering</h3></li>
 		<li><h3>Power Up</h3></li>
