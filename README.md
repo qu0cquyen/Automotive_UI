@@ -26,15 +26,18 @@
 			<li><a href='https://raw.githubusercontent.com/adafruit/Fritzing-Library/master/parts/Adafruit%20ADS1015%2012Bit%20I2C%20ADC.fzpz'>ADS1015</a></li>
 			<li><a href='https://raw.githubusercontent.com/WorldFamousElectronics/Fritzing_PulseSensor_Files/master/Pulse%20Sensor.fzpz'>Pulse Sensor</a></li>
 		</ul>
-		In additional, there are two things we need to adjust for the PCB design are the size of Vias and Wires, 0.9 and 16 mil accordingly. This process should take around 4 hours. A personal design can be from this <a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>link</a>. </p>
+		In additional, there are two things we need to adjust for the PCB design are the size of Vias and Wires, 0.9 and 16 mil accordingly. This process should take around 4 hours. A personal design can be found from this <a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>link</a>. </p>
 		<p>&emsp;&emsp;After having both designs are done, next all the necessary components will be hooked up on the breadboard first based upon the breadboard designed which is done on Fritizing. The amount of time should be spent on this process is 30 minutes to 1 hour. </p>
-		<p>&emsp;&emsp;Assuming, everything is working up until now. PCB power up process will cost us 30 minutes to 1 hour to assemble and do all the measurements which makes sure all the components are correctly wired up and connected to each other. </p>
-		<p>&emsp;&emsp;Once we have everything ready up to this point, building an enclosure for our components will be our next step. Personally, this can be seen as the most annoyed process in the whole project; apart from coming up with a design which can cover all the parts of our components, we also need to have a inctricate design in order to fit in all the parts together. In this process I spent about 21 hours for both designing and 3D printing the enclosure. During the process, I used a 3rd-party 3D printing service outside the school to assist me to accelerate this process. There is a number of faulty designs have been made due to mistaking measurements, therefore, I would recommend that you should research or ask experts who are able to give some suggestions in details measurement, if you want all the parts of the enclosure can perfectly fit to each other.</p>
+		<p>&emsp;&emsp;Once we have everything ready up to this point, building an enclosure for our components will be our next step. Personally, this can be seen as the most annoyed process in the whole project; apart from coming up with a design which can cover all the parts of our components, we also need to have a inctricate design in order to fit in all the parts together. In this process I spent about 21 hours for both designing and 3D printing the enclosure. During the process, I used school and 3rd-party 3D printing service outside the school to accelerate my process. There is a number of faulty designs have been made due to mistaking measurements, therefore, I would recommend that you should research or ask experts who are able to give some suggestions in details measurement, if you want all the parts of the enclosure can perfectly fit to each other.</p>
 		<li><h3>Mechanical Assembly</h3></li>
 		<li><h3>PCB/Soldering</h3></li>
 		<li><h3>Power Up</h3></li>
 		<li><h3>Unit Testing</h3></li>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/></p>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<li><h3>Production Testing</h3></li>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Pi.png?raw=true' width='50%' height='50%' /></p>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Code.png?raw=true' width='50%' height='50%'/></p>
 		<li><h3></h3></li>
 	</ol>
 	</body> 
