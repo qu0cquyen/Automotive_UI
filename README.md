@@ -17,7 +17,7 @@
 					</table>
 			The total price is assumed that we do not possess any components aside from Standley tool kit (included jumper wires)
 		</p>
-		<li><h3>Time Commitment</h3></li>
+		<li><h3>Time Commitment<hr/></h3></li>
 		<p align='center'><img src="https://i.ibb.co/w6kB6XZ/download.png"></p>
 		<p>
 		&emsp;&emsp;This time commitment is writtent based on the assumption of not having any components except the tool kit and no experience of PCB designing. The total amount of time to accomplish this project is approximately 31 hours. This included waiting time for all components and equipments are shipped and gathered. For some side-work such as Project Selection (30 minutes), Proposal, Meeting and Budget will take roughly one to two hours to finish each of them. </p>
@@ -29,7 +29,7 @@
 		In additional, there are two things we need to adjust for the PCB design are the size of Vias and Wires, 0.9 and 16 mil accordingly. This process should take around 4 hours. A personal design can be found from this <a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/electronics/Project_Fritzing.fzz'>link</a>. </p>
 		<p>&emsp;&emsp;After having both designs are done, next all the necessary components will be hooked up on the breadboard first based upon the breadboard designed which is done on Fritizing. The amount of time should be spent on this process is 30 minutes to 1 hour. </p>
 		<p>&emsp;&emsp;Once we have everything ready up to this point, building an enclosure for our components will be our next step. Personally, this can be seen as the most annoyed process in the whole project; apart from coming up with a design which can cover all the parts of our components, we also need to have a inctricate design in order to fit in all the parts together. In this process I spent about 21 hours for both designing and 3D printing the enclosure. During the process, I used school and 3rd-party 3D printing service outside the school to accelerate my process. There is a number of faulty designs have been made due to mistaking measurements, therefore, I would recommend that you should research or ask experts who are able to give some suggestions in details measurement, if you want all the parts of the enclosure can perfectly fit to each other.</p>
-		<li><h3>Mechanical Assembly</h3></li>
+		<li><h3>Mechanical Assembly<hr/></h3></li>
 		<p>In order to get the reading from the sensor. There are several steps we should take to create our development platform.</p>
 		<h4>Step 1: Download and Install IOS for Raspberry Pi.</h4>
 		<p>The image that we are going to use for our Pi is Raspbian. You can download from this <a href='https://downloads.raspberrypi.org/raspbian_full/images/raspbian_full-2019-09-30/2019-09-26-raspbian-buster-full.zip'>link</a></p>
@@ -65,13 +65,13 @@
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Pi.png?raw=true' width='50%' height='50%' /></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Code.png?raw=true' width='50%' height='50%'/></p>
-		<li><h3>Enclosure</h3></li>
+		<li><h3>Enclosure<hr/></h3></li>
 		<p>&emsp;&emsp;To design the Enclosure, you can use either Sketchup or Tinkercad to desgin your own enclosure. After your design is done, you should generate a .STL file and feed to Cura - A software which is used for 3D printing purpose. Cura will provide us an insight information what need to be used/done in order to print out the real case. When you finish revewing configuration information, Cura can help you export a .G file which is used for 3D printer to continue printing our work. The printing process usually takes up around from 2 upto 8 hours depends on your design. Finally, when we have our case is properly printed, it is time to put our components into the enclosure. The images below is my personal enclosure. <b>Notice: There is still some minor mistakes, please reconsider if you are going to use this design.</b> You can find my design files here:
 			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Bottom_Case_Enclousre.stl'>Bottom</a>
 		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Middle_Case_Enclosure.stl'>Top</a></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/></p>
-	<li><h3>Reference: </h3></li>
+	<li><h3>Reference: <hr/></h3></li>
 	<p>Marinos, A. (2018, October 18). Etcher: Now with multi-write and Compute Module support! Retrieved from https://www.balena.io/blog/etcher-now-with-multi-write-and-compute-module-support/.</p>
 	<p>Staff, M. (2018, April 5). How to Boot to Command Line and SSH on Raspberry Pi. Retrieved from https://www.digikey.com/en/maker/blogs/2018/how-to-boot-to-command-line-and-ssh-on-raspberry-pi.</p>
 	</ol>
