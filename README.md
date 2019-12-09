@@ -37,11 +37,28 @@
 		<p>Aside from downloading the image, we also need to download another software which helps to write the image to a SD card and this card is used by the Raspberry Pi.  You can download from here: https://www.balena.io/etcher/</p>
 		<p align='center'><img src="https://i.ibb.co/fGg0bcV/animated.gif" alt="animated" border="0"></p>
 		<h4>Step 2: Boost up Operating System</h4>
-		<p>After writing the image to the SD card, it is time to boost up our Pi Operating System. First, we need to do some configuration if you want your Pi to be able to work remotely.
-			<ul>
-				<p><li>Open the terminal and type in: <h5>sudo raspi-config</h5></li></p>
-			</ul>
-		</p>
+		<p>After writing the image to the SD card, it is time to boost up our Pi Operating System. First, we need to do some configuration if you want your Pi to be able to work remotely.</p>
+		<p>&emsp;&emsp;- Open the terminal and type in: <b>sudo raspi-config</b></p>
+		<p align='center'><img src="https://i.ibb.co/bFTySSz/Fig-10.jpg" alt="Fig-10" border="0"></p>
+		<p align='center'><img src="https://i.ibb.co/PDCvr5X/Fig-11.jpg" alt="Fig-11" border="0"></p>
+		<p>&emsp;&emsp;&emsp;&emsp;Enable SSH, VNC and I2C features</p>
+		<p>&emsp;&emsp;- Next we will set up the WIFI: </p>
+		<p>&emsp;&emsp;&emsp;&emsp;In the terminal type in: <b>sudo nano /etc/wpa_supplicant/wpa_supplicant.conf</b></p>
+		<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Types in the following lines: </p>
+		<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>network={<br/>
+		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ssid="YOUR WIFI NAME"<br/>
+		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;password="WIFI PASSWORD"<br/>
+		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;priority=999<br/>
+		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;}</b></p>
+		<p>&emsp;&emsp;Notice the "priority" line, when you implement this line the Raspberry Pi will look for the network which has the highest priority first to connect, if the network is not avaiable it will automatic connect to any network that has accessed before.</p>
+		<h4>Step 3: Assemble our components to Pi: </h4>
+		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png'  width='50%' height='50%'/></p>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Breadboard_Demo.png?raw=true' width='50%' height='50%' /></p>
+		<h4>Step 4: Coding</h4>
+		<p>&emsp;&emsp;You can refer to the code fragment from here: https://github.com/udayankumar/heart-rate-raspberry-pi</p>
+		<h4>Step 5: Result</h4>
+		<p>&emsp;&emsp;If you are flowing those steps above, you should be able to get the reading from the sensor.</p>
+		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/Figures.PNG' width='50%' height='50%' /></p>
 		<li><h3>PCB/Soldering</h3></li>
 		<li><h3>Power Up and Production Testing</h3></li>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/></p>
@@ -50,5 +67,8 @@
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Code.png?raw=true' width='50%' height='50%'/></p>
 		<li><h3>Enclosure</h3></li>
 	</ol>
+	Reference: 
+	https://www.balena.io/blog/etcher-now-with-multi-write-and-compute-module-support/
+	https://www.digikey.com/en/maker/blogs/2018/how-to-boot-to-command-line-and-ssh-on-raspberry-pi
 	</body> 
 </html> 
