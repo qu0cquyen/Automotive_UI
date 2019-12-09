@@ -14,7 +14,7 @@
 						<tr><td>Customized PCB</td><td align="right">CDN$ 28.7</td></tr>
 						<tr><td>Headers </td><td align="right">CDN$ 33.9</td></tr>
 						<tr><td>Customized Enclosure</td><td align="right">CDN$ 30.00</td></tr>
-						<tr><td></td><td align="right">Total: CDN$ 308.82</td></tr>
+						<tr><td>Total</td><td align="right">CDN$ 308.82</td></tr>
 					</table>
 			The total price is assumed that we do not possess any components aside from Standley tool kit (included jumper wires)
 		</p>
