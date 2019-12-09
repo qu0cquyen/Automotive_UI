@@ -3,7 +3,6 @@
 	<head></head>
 	<body>
 	<ol>
-		<li></li>
 		<li><h3>System Diagram</h3></li>
 		<li><h3>Budget</h3></li>
 		<p>To implement this project. There are some components and equipments are used: 
@@ -55,20 +54,26 @@
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_bb.png'  width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Breadboard_Demo.png?raw=true' width='50%' height='50%' /></p>
 		<h4>Step 4: Coding</h4>
-		<p>&emsp;&emsp;You can refer to the code fragment from here: https://github.com/udayankumar/heart-rate-raspberry-pi</p>
+		<p>&emsp;&emsp;You can refer to the code fragment from here: https://github.com/udayankumar/heart-rate-raspberry-pi. Code is written by using Python language.</p>
 		<h4>Step 5: Result</h4>
 		<p>&emsp;&emsp;If you are flowing those steps above, you should be able to get the reading from the sensor.</p>
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/Figures.PNG' width='50%' height='50%' /></p>
 		<li><h3>PCB/Soldering</h3></li>
+		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png' width='50%' height='50%'/></p>
 		<li><h3>Power Up and Production Testing</h3></li>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Pi.png?raw=true' width='50%' height='50%' /></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Code.png?raw=true' width='50%' height='50%'/></p>
 		<li><h3>Enclosure</h3></li>
-	</ol>
-	Reference: 
+		<p>&emsp;&emsp;To design the Enclosure, you can use either Sketchup or Tinkercad to desgin your own enclosure. After your design is done, you should generate a .STL file and feed to Cura - A software which is used for 3D printing purpose. Cura will provide us an insight information what need to be used/done in order to print out the real case. When you finish revewing configuration information, Cura can help you export a .G file which is used for 3D printer to continue printing our work. The printing process usually takes up around from 2 upto 8 hours depends on your design. Finally, when we have our case is properly printed, it is time to put our components into the enclosure. The images below is my personal enclosure. <b>Notice: There is still some minor mistakes, please reconsider if you are going to use this design.</b> You can find my design files here:
+			<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Bottom_Case_Enclousre.stl'>Bottom</a>
+		<a href='https://github.com/qu0cquyen/Automotive_UI/blob/master/mechanical/Final_Middle_Case_Enclosure.stl'>Top</a></p>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_1.png?raw=true' width='50%' height='50%'/></p>
+		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Enclosure_2.png?raw=true' width='50%' height='50%'/></p>
+	<li><h3>Reference: </h3></li>
 	https://www.balena.io/blog/etcher-now-with-multi-write-and-compute-module-support/
 	https://www.digikey.com/en/maker/blogs/2018/how-to-boot-to-command-line-and-ssh-on-raspberry-pi
+	</ol>
 	</body> 
 </html> 
