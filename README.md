@@ -3,7 +3,7 @@
 	<head></head>
 	<body>
 	<ol>
-		<li><h3>System Diagram</h3></li>
+		<li><h3>System Diagram<hr/></h3></li>
 		<li><h3>Budget<hr/></h3></li>
 		<p>To implement this project. There are some components and equipments are used: 
 					<table>
@@ -58,9 +58,9 @@
 		<h4>Step 5: Result</h4>
 		<p>&emsp;&emsp;If you are flowing those steps above, you should be able to get the reading from the sensor.</p>
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/Figures.PNG' width='50%' height='50%' /></p>
-		<li><h3>PCB/Soldering</h3></li>
+		<li><h3>PCB/Soldering<hr/></h3></li>
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png' width='50%' height='50%'/></p>
-		<li><h3>Power Up and Production Testing</h3></li>
+		<li><h3>Power Up and Production Testing<hr/></h3></li>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/PCB_PowerUp_Pi.png?raw=true' width='50%' height='50%' /></p>
