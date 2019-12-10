@@ -14,6 +14,8 @@
 			<li><a href='#RF'>Reference</a></li>
 		</ol>
 	<ol>
+		<li><h3 id="Intro">Introduction</h3></li>
+		<p>Pulse Sensor - SEN 11574 can be used to keep tracking the pulse and provide BMP (Beat per minute) readings which is useful under the medical circumstances when it comes to monitoring patient's health. In this document, I will be sharing my personal experience on how to create a development platform for obtaing the readings from the sensor. This document will only provide simple instructions and for study purpose.  </p>
 		<li><h3 id='SysDiag'>System Diagram<hr/></h3></li>
 		<p align='center'><img src="https://i.ibb.co/M19ryVN/Final.png" alt="Final" border="0"></p>
 		<li><h3 id='Bud'>Budget<hr/></h3></li>
