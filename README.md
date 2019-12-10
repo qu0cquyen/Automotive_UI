@@ -23,9 +23,9 @@
 						<tr><td>Raspberry Pi 4 - 32GB SDCard</td><td align="right">CDN$ 134.99</td></tr>
 						<tr><td>ADS1015 Converter</td><td align="right">CDN$ 33.89</td></tr>
 						<tr><td>Pulse Sensor - SEN 11574</td><td align="right">CDN$ 48.43</td></tr>
-						<tr><td><a src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/electronics/Project_Fritzing.fzz'>Customized PCB</a></td><td align="right">CDN$ 28.7</td></tr>
+						<tr><td><a href='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/electronics/Project_Fritzing.fzz'>Customized PCB</a></td><td align="right">CDN$ 28.7</td></tr>
 						<tr><td>Headers </td><td align="right">CDN$ 33.9</td></tr>
-						<tr><td><a src='https://www.tinkercad.com/things/gwDEV7c7vIV-smashing-wolt/edit'>Customized Enclosure</a></td><td align="right">CDN$ 30.00</td></tr>
+						<tr><td><a href='https://www.tinkercad.com/things/gwDEV7c7vIV-smashing-wolt/edit'>Customized Enclosure</a></td><td align="right">CDN$ 30.00</td></tr>
 						<tr><td>Total</td><td align="right">CDN$ 308.82</td></tr>
 					</table>
 			The total price is assumed that we do not possess any components aside from Standley tool kit (included jumper wires)
