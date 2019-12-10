@@ -15,6 +15,7 @@
 		</ol>
 	<ol>
 		<li><h3 id='SysDiag'>System Diagram<hr/></h3></li>
+		<p align='center'><img src="https://i.ibb.co/M19ryVN/Final.png" alt="Final" border="0"></p>
 		<li><h3 id='Bud'>Budget<hr/></h3></li>
 		<p>To implement this project. There are some components and equipments are used: 
 					<table>
