@@ -72,6 +72,7 @@
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/Figures.PNG' width='50%' height='50%' /></p>
 		<li><h3 id='PCB'>PCB/Soldering<hr/></h3></li>
 		<p align='center'><img src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/images/ADS1105noPi_pcb.png' width='50%' height='50%'/></p>
+		<p align='center'><img src="https://i.ibb.co/GMNLNcG/Blog-post.jpg" width='50%' height='50%' /></p>
 		<li><h3 id='PP'>Power Up and Production Testing<hr/></h3></li>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Pi_Measure.png?raw=true' width='50%' height='50%'/></p>
 		<p align='center'><img src='https://github.com/qu0cquyen/Automotive_UI/blob/master/images/Sensor_Measure.png?raw=true' width='50%' height='50%'/></p>
