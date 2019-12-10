@@ -2,10 +2,12 @@
 <html>
 	<head></head>
 	<body>
+		<h3>System Diagram</h3><hr/>
+		<p align='center'><img src="https://i.ibb.co/M19ryVN/Final.png" alt="Final" border="0"></p>
+		<h3>Introduction</h3> <hr/>
+		<p>Pulse Sensor - SEN 11574 can be used to keep tracking the pulse and provide BMP (Beat per minute) readings which is useful under the medical circumstances when it comes to monitoring patient's health. In this document, I will be sharing my personal experience on how to create a development platform for obtaing the readings from the sensor. This document will only provide simple instructions and for study purpose.  </p>
 		<h2>Table of Contents<hr/></h2>
 		<ol>
-			<li><a href='#Intro'>Introduction</a></li>
-			<li><a href='#SysDiag'>System Diagram</a></li>
 			<li><a href='#Bud'>Budget</a></li>
 			<li><a href='#TC'>Time Commitment</a></li>
 			<li><a href='#MA'>Mechanical Assembly</a></li>
@@ -15,25 +17,20 @@
 			<li><a href='#RF'>Reference</a></li>
 		</ol>
 	<ol>
-		<li><h3 id="Intro">Introduction</h3></li>
-		<p>Pulse Sensor - SEN 11574 can be used to keep tracking the pulse and provide BMP (Beat per minute) readings which is useful under the medical circumstances when it comes to monitoring patient's health. In this document, I will be sharing my personal experience on how to create a development platform for obtaing the readings from the sensor. This document will only provide simple instructions and for study purpose.  </p>
-		<li><h3 id='SysDiag'>System Diagram<hr/></h3></li>
-		<p align='center'><img src="https://i.ibb.co/M19ryVN/Final.png" alt="Final" border="0"></p>
 		<li><h3 id='Bud'>Budget<hr/></h3></li>
 		<p>To implement this project. There are some components and equipments are used: 
 					<table>
 						<tr><td>Raspberry Pi 4 - 32GB SDCard</td><td align="right">CDN$ 134.99</td></tr>
 						<tr><td>ADS1015 Converter</td><td align="right">CDN$ 33.89</td></tr>
 						<tr><td>Pulse Sensor - SEN 11574</td><td align="right">CDN$ 48.43</td></tr>
-						<tr><td>Customized PCB</td><td align="right">CDN$ 28.7</td></tr>
+						<tr><td><a src='https://raw.githubusercontent.com/qu0cquyen/Automotive_UI/master/electronics/Project_Fritzing.fzz'>Customized PCB</a></td><td align="right">CDN$ 28.7</td></tr>
 						<tr><td>Headers </td><td align="right">CDN$ 33.9</td></tr>
-						<tr><td>Customized Enclosure</td><td align="right">CDN$ 30.00</td></tr>
+						<tr><td><a src='https://www.tinkercad.com/things/gwDEV7c7vIV-smashing-wolt/edit'>Customized Enclosure</a></td><td align="right">CDN$ 30.00</td></tr>
 						<tr><td>Total</td><td align="right">CDN$ 308.82</td></tr>
 					</table>
 			The total price is assumed that we do not possess any components aside from Standley tool kit (included jumper wires)
 		</p>
 		<li><h3 id='TC'>Time Commitment<hr/></h3></li>
-		<p align='center'><img src="https://i.ibb.co/w6kB6XZ/download.png"></p>
 		<p>
 		&emsp;&emsp;This time commitment is writtent based on the assumption of not having any components except the tool kit and no experience of PCB designing. The total amount of time to accomplish this project is approximately 31 hours. This included waiting time for all components and equipments are shipped and gathered. For some side-work such as Project Selection (30 minutes), Proposal, Meeting and Budget will take roughly one to two hours to finish each of them. </p>
 		<p>&emsp;&emsp;Fritzing software is used to design the Breadboard and PCB. Both designs are pretty straight forward, all we need to do is to properly wire up all the components. However, the software does not include Hearbeat sensor and ADS1015 converter. You can download these 2 components for Fritizing with this links: 
