@@ -1,4 +1,4 @@
-# Automotive_UI (Pulse Sensor)
+# Automotive_UI (Pulse Sensor - SEN 11574)
 <html>
 	<head></head>
 	<body>
@@ -21,7 +21,7 @@
 					<table>
 						<tr><td>Raspberry Pi 4 - 32GB SDCard</td><td align="right">CDN$ 134.99</td></tr>
 						<tr><td>ADS1015 Converter</td><td align="right">CDN$ 33.89</td></tr>
-						<tr><td>Pulse Sensor</td><td align="right">CDN$ 48.43</td></tr>
+						<tr><td>Pulse Sensor - SEN 11574</td><td align="right">CDN$ 48.43</td></tr>
 						<tr><td>Customized PCB</td><td align="right">CDN$ 28.7</td></tr>
 						<tr><td>Headers </td><td align="right">CDN$ 33.9</td></tr>
 						<tr><td>Customized Enclosure</td><td align="right">CDN$ 30.00</td></tr>
