@@ -4,7 +4,7 @@
 	<body>
 		<h2>Table of Contents<hr/></h2>
 		<ol>
-			<li><a href='#Intro'><Introduction</a></li>
+			<li><a href='#Intro'>Introduction</a></li>
 			<li><a href='#SysDiag'>System Diagram</a></li>
 			<li><a href='#Bud'>Budget</a></li>
 			<li><a href='#TC'>Time Commitment</a></li>
